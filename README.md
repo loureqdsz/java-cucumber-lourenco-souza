@@ -17,6 +17,12 @@ Solved problem statements can be found at:
 * https://www.beecrowd.com.br/judge/en/problems/view/1007
 * https://www.beecrowd.com.br/judge/en/problems/view/1060 - By: Lourenço Souza.
 
+## Problem 1060 solution:
+The program was accepted by beecrowd
+
+![image](https://user-images.githubusercontent.com/48070657/189780140-a061bed1-25ec-4716-86bc-7de14a40eb40.png)
+
+
 ## Solutions
 
 Bee 1001 example solutions written in Java and other programming languages can be found here: https://www.beecrowd.com.br/judge/pt/faqs/about/examples.
